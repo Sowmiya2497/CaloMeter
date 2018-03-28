@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.calometer.MainActivity">
+
+    <ImageView
+        android:id="@+id/calomain"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/calo"
+        android:scaleType="centerCrop"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CaloMeter"
+        android:layout_gravity="center_horizontal"
+        android:textSize="50sp"
+        android:paddingTop="16dp"
+        android:textColor="#311B92"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your one-stop fitness app!"
+        android:layout_gravity="center_horizontal"
+        android:textSize="20sp"
+        android:paddingTop="16dp"
+        android:textColor="#311B92"
+        />
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp"
+        android:text="LOGIN"
+        android:background="#E91E63"
+        android:textColor="@android:color/white"
+        android:onClick="openLogin"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp"
+        android:text="SIGN UP"
+        android:background="#E91E63"
+        android:textColor="@android:color/white"
+        android:onClick="openSignUp"
+        />
+
+</LinearLayout>
