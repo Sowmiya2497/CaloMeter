@@ -3,9 +3,14 @@ A Diet Tracking Android Application that helps you keep fit by maintaining a Cal
 
 ## Sign Up and Login
 ![alt tag](https://github.com/Sowmiya2497/CaloMeter/blob/master/CaloMeterScreenshots/Screenshot_1522209372.png "Description goes here")
+![alt tag](https://github.com/Sowmiya2497/CaloMeter/blob/master/CaloMeterScreenshots/Screenshot_1522209414.png "Description goes here")
+![alt tag](https://github.com/Sowmiya2497/CaloMeter/blob/master/CaloMeterScreenshots/Screenshot_1522209437.png "Description goes here")
 
 ## Food Diary
+![alt tag](https://github.com/Sowmiya2497/CaloMeter/blob/master/CaloMeterScreenshots/Screenshot_1522211448.png )
 
 ## Exercise Diary
+![alt tag](https://github.com/Sowmiya2497/CaloMeter/blob/master/CaloMeterScreenshots/Screenshot_1522211524.png)
 
 ## Daily Accomplishment
+![alt tag](https://github.com/Sowmiya2497/CaloMeter/blob/master/CaloMeterScreenshots/Screenshot_1522239214.png)
